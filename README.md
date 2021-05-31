@@ -1,4 +1,4 @@
 # filtering_bad_words
-#Host link:
+# Host link:
 
-#To Execute in local server:
+# To Execute in local server:
